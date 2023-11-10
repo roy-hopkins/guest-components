@@ -6,6 +6,9 @@
 pub mod native;
 pub use native::*;
 
+pub mod svsm;
+pub use svsm::*;
+
 pub mod mock;
 pub use mock::*;
 

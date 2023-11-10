@@ -2777,6 +2777,7 @@ dependencies = [
  "serde",
  "serde_json",
  "serial_test 1.0.0",
+ "sev 1.2.1",
  "sha2 0.10.7",
  "tempfile",
  "testcontainers",

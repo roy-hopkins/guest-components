@@ -19,6 +19,7 @@ reqwest = { workspace = true, features = ["cookies", "json"], optional = true }
 resource_uri.path = "../deps/resource_uri"
 serde.workspace = true
 serde_json.workspace = true
+sev = { version = "1.2.0", default-features = false, features = ["snp"] }
 sha2.workspace = true
 thiserror.workspace = true
 tokio.workspace = true
